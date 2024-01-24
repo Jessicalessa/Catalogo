@@ -1,6 +1,5 @@
 var comentarios=[]
 
-
 document.querySelector('input[type=submit]')
 .addEventListener('click',()=>{
     var nomeProduto = document.querySelector('input[name=Text]');
